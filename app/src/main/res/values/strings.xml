@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Abstracting Api</string>
+    <string name="loading">Loading...</string>
+</resources>
